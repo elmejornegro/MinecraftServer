@@ -1,0 +1,10 @@
+[20:14:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[20:14:08] [INIT] Loaded plugins:
+[20:14:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:14:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:14:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:14:08] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[20:14:08] [INFO] CustomStat.js#1: Loaded Java class 'net.minecraft.world.entity.ai.attributes.RangedAttribute'
+[20:14:08] [INFO] Loaded script startup_scripts:CustomStat.js in 0.093 s
+[20:14:08] [INFO] Loaded script startup_scripts:CustomItem.js in 0.002 s
+[20:14:08] [INFO] Loaded 2/2 KubeJS startup scripts in 0.707 s with 0 errors and 0 warnings

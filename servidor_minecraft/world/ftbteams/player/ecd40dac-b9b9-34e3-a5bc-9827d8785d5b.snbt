@@ -1,0 +1,17 @@
+{
+	id: "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b"
+	type: "player"
+	player_name: "Nova"
+	ranks: {
+		ecd40dac-b9b9-34e3-a5bc-9827d8785d5b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nova"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

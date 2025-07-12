@@ -1,0 +1,17 @@
+{
+	id: "db4611d1-772d-34de-9aee-9e4cf8193996"
+	type: "player"
+	player_name: "zell"
+	ranks: {
+		db4611d1-772d-34de-9aee-9e4cf8193996: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zell"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF65"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

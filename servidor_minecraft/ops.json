@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "85dcf22e-b193-4107-a75d-b3cd229a6cf2",
+    "name": "Zell",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b",
+    "name": "Nova",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "db4611d1-772d-34de-9aee-9e4cf8193996",
+    "name": "zell",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "892a570c-8b14-362c-a608-a40317016c23",
+    "name": "Josh",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

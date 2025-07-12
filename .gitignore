@@ -1,0 +1,20 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+java/
+*.exe
+*.msi
+*.pyc
+*.msp
+*.msx
+msx.py
+# Archivos pesados a excluir
+servidor_minecraft/config/fancymenu/assets/mahj_1294853429_mainmenu.fma
+servidor_minecraft/config/openloader/resources/resources.zip
+servidor_minecraft/simplebackups/
