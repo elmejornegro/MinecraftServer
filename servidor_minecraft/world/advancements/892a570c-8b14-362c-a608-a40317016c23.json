@@ -67,8 +67,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-13 02:29:39 +0000",
       "minecraft:desert": "2025-07-12 20:08:43 +0000",
-      "minecraft:warm_ocean": "2025-07-12 21:21:17 +0000"
+      "minecraft:warm_ocean": "2025-07-12 21:21:17 +0000",
+      "minecraft:savanna": "2025-07-13 02:28:54 +0000"
     },
     "done": false
   },
@@ -9759,7 +9761,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:mojave_desert": "2025-07-12 21:31:18 +0000",
-      "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000"
+      "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000",
+      "biomeswevegone:rainbow_beach": "2025-07-13 02:29:21 +0000"
     },
     "done": false
   },
@@ -9847,15 +9850,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-07-13 02:20:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-13 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -9877,6 +9904,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -9889,9 +9928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -9949,9 +10000,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-07-13 02:27:41 +0000"
     },
     "done": true
   },
@@ -10003,6 +10066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-13 02:31:07 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/egg_sandwich": {
     "criteria": {
       "has_egg": "2025-07-13 02:23:49 +0000"
@@ -10027,9 +10096,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-07-13 02:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10051,9 +10138,27 @@
     },
     "done": true
   },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-07-13 02:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-13 02:33:08 +0000"
     },
     "done": true
   },
@@ -10063,9 +10168,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10080,6 +10203,12 @@
       "has_oak_table": "2025-07-13 02:20:13 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2025-07-13 02:27:41 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
@@ -10105,9 +10234,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-13 02:31:07 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10147,6 +10288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-07-13 02:23:49 +0000"
@@ -10159,9 +10306,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-13 02:33:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10174,6 +10339,18 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-07-13 02:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10213,6 +10390,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -10222,6 +10405,12 @@
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
     },
     "done": true
   },
@@ -10237,6 +10426,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/brown_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
@@ -10249,6 +10444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_side_table": {
     "criteria": {
       "has_oak_side_table": "2025-07-13 02:20:13 +0000"
@@ -10258,6 +10459,12 @@
   "mca:recipes/decorations/yellow_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-13 02:33:08 +0000"
     },
     "done": true
   },

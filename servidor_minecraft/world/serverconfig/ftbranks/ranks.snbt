@@ -1,22 +1,18 @@
 {
-	default: {
-		name: "Default"
-		power: 0
-		permissions: "[]"
-	}
-	limited: {
-		name: "Limitado"
-		power: 0
-		permissions: "[\"minecraft.command.tp\",\"minecraft.command.teleport\",\"minecraft.command.gamemode\"]"
-	}
-	admin: {
-		name: "Administrador"
-		power: 0
-		permissions: "[\"*\"]"
-		op_level: 4
-	}
-	limitado: {
-		name: "limitado"
-		power: 1
-	}
+  admin: {
+    name: "Admin"
+    power: 1000
+    condition: "op"
+    command: true
+  }
+
+  limitado: {
+    name: "Limitado"
+    power: 1
+    condition: "always_active"
+    command: false
+    command.gamemode: true
+    command.tp: true
+  }
 }
+

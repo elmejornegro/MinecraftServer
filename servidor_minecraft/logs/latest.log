@@ -2794,3 +2794,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 02:28:07.021] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Nova
 [13Jul2025 02:28:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova joined the game
 [13Jul2025 02:28:07.152] [Server thread/INFO] [Jade/]: Syncing config to Nova (ecd40dac-b9b9-34e3-a5bc-9827d8785d5b)
+[13Jul2025 02:29:32.073] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SkeletonHorse['Skeleton Horse'/8893, l='ServerLevel[world]', x=13.50, y=-44.00, z=2872.50] as it would cause deadlock
+[13Jul2025 02:29:33.354] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SkeletonHorse['Skeleton Horse'/8905, l='ServerLevel[world]', x=11.50, y=-26.00, z=2889.50] as it would cause deadlock
+[13Jul2025 02:29:37.726] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SkeletonHorse['Skeleton Horse'/8961, l='ServerLevel[world]', x=-12.50, y=-32.00, z=2872.50] as it would cause deadlock
+[13Jul2025 02:29:37.728] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity SkeletonHorse['Skeleton Horse'/8964, l='ServerLevel[world]', x=-11.50, y=-26.00, z=2870.50] as it would cause deadlock
+[13Jul2025 02:31:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Penteconter]
+[13Jul2025 02:31:34.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: Disconnected
+[13Jul2025 02:31:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova left the game
+[13Jul2025 02:31:56.470] [Worker-Main-6/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[13Jul2025 02:34:35.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nova[/127.73.238.121:53017] logged in with entity id 10357 at (258.38400346963743, 73.0, 2652.3992908931355)
+[13Jul2025 02:34:35.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nova
+[13Jul2025 02:34:35.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nova
+[13Jul2025 02:34:35.979] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nova
+[13Jul2025 02:34:35.979] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nova
+[13Jul2025 02:34:35.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nova
+[13Jul2025 02:34:35.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nova
+[13Jul2025 02:34:35.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nova
+[13Jul2025 02:34:36.044] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Nova
+[13Jul2025 02:34:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova joined the game
+[13Jul2025 02:34:36.178] [Server thread/INFO] [Jade/]: Syncing config to Nova (ecd40dac-b9b9-34e3-a5bc-9827d8785d5b)
+[13Jul2025 02:35:53.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was doomed to fall by Mutant Creeper
+[13Jul2025 02:36:04.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 02:36:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Josh to zell]
+[13Jul2025 02:36:22.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: Disconnected
+[13Jul2025 02:36:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova left the game
+[13Jul2025 02:36:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh was shot by Skeleton
+[13Jul2025 02:37:24.423] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:37:24.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:38:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[13Jul2025 02:38:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ftbranks set zell limitado<--[HERE]
