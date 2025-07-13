@@ -15,4 +15,8 @@
 		permissions: "[\"*\"]"
 		op_level: 4
 	}
+	limitado: {
+		name: "limitado"
+		power: 1
+	}
 }
