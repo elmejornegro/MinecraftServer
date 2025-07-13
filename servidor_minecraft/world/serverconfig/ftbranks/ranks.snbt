@@ -1,18 +1,16 @@
 {
-  admin: {
-    name: "Admin"
-    power: 1000
-    condition: "op"
-    command: true
-  }
-
-  limitado: {
-    name: "Limitado"
-    power: 1
-    condition: "always_active"
-    command: false
-    command.gamemode: true
-    command.tp: true
-  }
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		command: true
+	}
+	limitado: {
+		name: "Limitado"
+		power: 1
+		condition: "always_active"
+		command: false
+		command.gamemode: true
+		command.teleport: true
+	}
 }
-

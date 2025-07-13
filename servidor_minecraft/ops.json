@@ -4,11 +4,5 @@
     "name": "Zell",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b",
-    "name": "Nova",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]

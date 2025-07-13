@@ -2823,3 +2823,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 02:37:24.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
 [13Jul2025 02:38:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
 [13Jul2025 02:38:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ftbranks set zell limitado<--[HERE]
+[13Jul2025 02:38:40.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[13Jul2025 02:38:40.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ftbranks set zell limitado<--[HERE]
+[13Jul2025 02:39:03.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nova[/127.73.238.121:39253] logged in with entity id 12220 at (264.76249998807907, 73.0, 2653.6514852072564)
+[13Jul2025 02:39:03.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nova
+[13Jul2025 02:39:03.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nova
+[13Jul2025 02:39:03.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nova
+[13Jul2025 02:39:03.799] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nova
+[13Jul2025 02:39:03.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nova
+[13Jul2025 02:39:03.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nova
+[13Jul2025 02:39:03.802] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nova
+[13Jul2025 02:39:03.866] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Nova
+[13Jul2025 02:39:03.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova joined the game
+[13Jul2025 02:39:03.980] [Server thread/INFO] [Jade/]: Syncing config to Nova (ecd40dac-b9b9-34e3-a5bc-9827d8785d5b)
+[13Jul2025 02:39:31.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was slain by Zombie
+[13Jul2025 02:40:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player zell added to rank 'Limitado'!
+[13Jul2025 02:40:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was shot by Gatekeeper
+[13Jul2025 02:40:20.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Rigged from the Start]
+[13Jul2025 02:40:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Made Nova no longer a server operator]
+[13Jul2025 02:41:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was slain by Corpse Fly
+[13Jul2025 02:41:26.761] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:41:26.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:41:45.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player zell added to rank 'Limitado'!
+[13Jul2025 02:42:00.948] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:42:00.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:42:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player zell added to rank 'Limitado'!
+[13Jul2025 02:42:27.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player Nova added to rank 'Limitado'!
+[13Jul2025 02:42:50.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Set own game mode to Creative Mode]
+[13Jul2025 02:42:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Set own game mode to Survival Mode]
+[13Jul2025 02:45:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Isn't It Iron Pick]
+[13Jul2025 02:46:26.000] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:46:26.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:46:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 02:47:08.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player Josh added to rank 'Limitado'!
+[13Jul2025 02:47:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player Nova added to rank 'Admin'!
+[13Jul2025 02:47:47.858] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:47:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!

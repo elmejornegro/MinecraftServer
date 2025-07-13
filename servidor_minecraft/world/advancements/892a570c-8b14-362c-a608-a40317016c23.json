@@ -9762,6 +9762,7 @@
     "criteria": {
       "biomeswevegone:mojave_desert": "2025-07-12 21:31:18 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-13 02:43:39 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-13 02:29:21 +0000"
     },
     "done": false
@@ -9826,9 +9827,45 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket_pass": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -9844,15 +9881,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-07-13 02:20:13 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket_pass": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -9865,6 +9920,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/master_ticket": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -9892,6 +9953,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/golden_apple_from_green_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_master_ticket": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
@@ -9910,9 +9983,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-13 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -9937,6 +10034,12 @@
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -9994,9 +10097,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-07-13 02:40:20 +0000"
     },
     "done": true
   },
@@ -10015,6 +10136,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-13 02:27:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/magnifying_bone": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10051,6 +10178,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10132,6 +10265,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-07-13 02:20:13 +0000"
@@ -10144,6 +10289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -10153,6 +10304,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10206,7 +10363,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_tower_of_the_undead": "2025-07-13 02:27:41 +0000"
+      "entered_tower_of_the_undead": "2025-07-13 02:27:41 +0000",
+      "entered_hay_storage": "2025-07-13 02:43:02 +0000"
     },
     "done": false
   },
@@ -10225,6 +10383,12 @@
   "blue_skies:recipes/combat/frostbright_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10324,6 +10488,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/shrinking_mallet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10357,6 +10527,12 @@
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10396,6 +10572,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/tools/canine_tracker": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -10414,9 +10596,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket": {
+    "criteria": {
+      "ticket_material": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
@@ -10477,6 +10671,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },

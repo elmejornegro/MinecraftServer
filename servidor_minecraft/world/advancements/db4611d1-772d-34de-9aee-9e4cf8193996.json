@@ -10544,6 +10544,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2025-07-13 02:29:53 +0000"
@@ -10577,6 +10583,12 @@
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
     "criteria": {
       "has_acacia_plank": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10616,6 +10628,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-13 02:29:53 +0000"
@@ -10634,9 +10652,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10706,9 +10742,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-07-13 02:22:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10721,6 +10781,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10790,6 +10856,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-07-13 02:28:55 +0000"
@@ -10799,6 +10871,12 @@
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10817,6 +10895,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
@@ -10982,6 +11066,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
@@ -11048,6 +11138,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/blue_skies/item_shelf_maple": {
+    "criteria": {
+      "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-07-13 02:03:51 +0000"
@@ -11105,6 +11207,12 @@
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:37:21 +0000"
     },
     "done": true
   },
