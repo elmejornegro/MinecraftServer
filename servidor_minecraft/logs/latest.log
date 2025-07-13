@@ -1,13 +1,113 @@
-[12Jul2025 22:05:57.419] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Jul2025 22:05:57.423] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[12Jul2025 22:05:58.829] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Jul2025 22:05:58.880] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Jul2025 22:05:59.661] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/MinecraftServer/servidor_minecraft/mods} returned 4 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[12Jul2025 22:05:59.764] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[12Jul2025 22:05:59.764] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Jul2025 22:05:59.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Jul2025 22:05:59.766] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[12Jul2025 22:06:00.756] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[12Jul2025 22:06:00.756] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[12Jul2025 22:06:00.760] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/MinecraftServer/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[12Jul2025 22:06:00.761] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 31 dependencies adding them to mods collection
+[13Jul2025 00:00:09.771] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=869, y=64, z=2776} as the loot table 'ctov:village/desert_fortified/bakery' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Jul2025 00:00:13.123] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=871, y=64, z=2778} as the loot table 'ctov:village/desert_fortified/bakery' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[13Jul2025 00:03:04.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Tunnel Treasures]
+[13Jul2025 00:03:07.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell has made the advancement [Tunnel Treasures]
+[13Jul2025 00:09:57.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell has made the advancement [Diamonds!]
+[13Jul2025 00:12:28.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:12:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Diamonds!]
+[13Jul2025 00:13:16.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Penteconter]
+[13Jul2025 00:16:06.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Suit Up]
+[13Jul2025 00:16:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Cover Me with Diamonds]
+[13Jul2025 00:16:22.969] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[13Jul2025 00:16:22.971] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2025-07-12_03-17-43.zip"
+[13Jul2025 00:18:09.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Getting an Upgrade]
+[13Jul2025 00:25:31.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was doomed to fall by Skeleton
+[13Jul2025 00:26:41.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:26:50.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova fell from a high place
+[13Jul2025 00:26:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:31:14.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was shot by Glow Skeleton
+[13Jul2025 00:31:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 00:31:36.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was shot by Glow Skeleton
+[13Jul2025 00:31:39.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:32:11.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mandy'/21524, l='ServerLevel[world]', x=913.14, y=78.00, z=2741.14] died, message: 'Mandy drowned'
+[13Jul2025 00:33:06.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:35:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Voluntary Exile]
+[13Jul2025 00:35:35.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 00:37:30.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: Disconnected
+[13Jul2025 00:37:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova left the game
+[13Jul2025 00:37:39.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nova[/127.73.238.121:44599] logged in with entity id 23468 at (799.1827546120977, -23.0, 3054.374724748805)
+[13Jul2025 00:37:39.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nova
+[13Jul2025 00:37:39.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nova
+[13Jul2025 00:37:39.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nova
+[13Jul2025 00:37:39.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nova
+[13Jul2025 00:37:39.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nova
+[13Jul2025 00:37:39.312] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nova
+[13Jul2025 00:37:39.312] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nova
+[13Jul2025 00:37:39.369] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Nova
+[13Jul2025 00:37:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova joined the game
+[13Jul2025 00:37:39.485] [Server thread/INFO] [Jade/]: Syncing config to Nova (ecd40dac-b9b9-34e3-a5bc-9827d8785d5b)
+[13Jul2025 00:40:26.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 00:42:40.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 00:44:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zell> xaero-waypoint:Shared Location:S:791:97:3044:0:false:0:Internal-overworld-waypoints
+[13Jul2025 00:44:34.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Nova> xaero-waypoint:Nave:N:845:230:3203:9:false:0:Internal-overworld-waypoints
+[13Jul2025 00:45:23.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:51:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Spirit Guide Assistant
+[13Jul2025 00:51:52.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:53:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Husk
+[13Jul2025 00:53:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:54:20.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell has made the advancement [Double Trouble]
+[13Jul2025 00:57:24.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Dread Hound
+[13Jul2025 00:57:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 00:57:58.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was slain by Corpse Maggot
+[13Jul2025 00:58:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Zombie
+[13Jul2025 00:58:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 00:58:29.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: You logged in from another location
+[13Jul2025 00:58:29.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova left the game
+[13Jul2025 00:58:29.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nova[/127.73.238.121:41059] logged in with entity id 29029 at (741.4983321312894, 68.00133597911214, 2856.5215195236656)
+[13Jul2025 00:58:29.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Nova
+[13Jul2025 00:58:29.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Nova
+[13Jul2025 00:58:29.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Nova
+[13Jul2025 00:58:29.155] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Nova
+[13Jul2025 00:58:29.156] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Nova
+[13Jul2025 00:58:29.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Nova
+[13Jul2025 00:58:29.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Nova
+[13Jul2025 00:58:29.214] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Nova
+[13Jul2025 00:58:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova joined the game
+[13Jul2025 00:58:29.300] [Server thread/INFO] [Jade/]: Syncing config to Nova (ecd40dac-b9b9-34e3-a5bc-9827d8785d5b)
+[13Jul2025 00:58:35.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 01:00:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zell: Teleported zell to Nova]
+[13Jul2025 01:02:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was shot by Pillager
+[13Jul2025 01:02:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 01:03:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell has made the advancement [Voluntary Exile]
+[13Jul2025 01:04:35.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zell lost connection: Disconnected
+[13Jul2025 01:04:35.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell left the game
+[13Jul2025 01:05:46.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Eye of The Storm]
+[13Jul2025 01:06:13.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: Disconnected
+[13Jul2025 01:06:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova left the game
+[13Jul2025 01:06:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jul2025 01:06:18.966] [Server thread/INFO] [net.poe.entitylootdrops.EntityLootDrops/]: Server stopping - saving loot config state...
+[13Jul2025 01:06:18.966] [Server thread/INFO] [net.poe.entitylootdrops.LootConfig/]: Saved active events state
+[13Jul2025 01:06:18.967] [Server thread/INFO] [net.poe.entitylootdrops.BlockConfig/]: Saved block events state
+[13Jul2025 01:06:18.973] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[13Jul2025 01:06:18.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2025 01:06:18.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jul2025 01:06:18.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jul2025 01:06:19.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jul2025 01:06:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_harvest:harvest
+[13Jul2025 01:06:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Jul2025 01:06:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jul2025 01:06:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ancient_obelisks:obelisk
+[13Jul2025 01:06:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dungeon_realm:dungeon
+[13Jul2025 01:06:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[13Jul2025 01:06:19.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[13Jul2025 01:06:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Jul2025 01:06:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[13Jul2025 01:06:19.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[13Jul2025 01:06:19.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jul2025 01:06:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (harvest): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (obelisk): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jul2025 01:06:19.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jul2025 01:06:19.400] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jul2025 01:06:19.402] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Jul2025 01:06:19.404] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Jul2025 01:06:19.416] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.

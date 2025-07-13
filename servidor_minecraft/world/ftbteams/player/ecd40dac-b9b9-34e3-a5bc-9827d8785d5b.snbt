@@ -2,9 +2,7 @@
 	id: "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b"
 	type: "player"
 	player_name: "Nova"
-	ranks: {
-		ecd40dac-b9b9-34e3-a5bc-9827d8785d5b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Nova"
 		"ftbteams:description": ""

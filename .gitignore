@@ -9,7 +9,7 @@ composer.*
 /bkdir
 java/
 *.exe
-*.msi
+*.msi 
 *.pyc
 *.msp
 *.msx
@@ -18,3 +18,4 @@ msx.py
 servidor_minecraft/config/fancymenu/assets/mahj_1294853429_mainmenu.fma
 servidor_minecraft/config/openloader/resources/resources.zip
 servidor_minecraft/simplebackups/
+ 

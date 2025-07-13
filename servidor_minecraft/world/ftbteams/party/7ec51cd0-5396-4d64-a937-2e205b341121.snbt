@@ -1,0 +1,21 @@
+{
+	id: "7ec51cd0-5396-4d64-a937-2e205b341121"
+	type: "party"
+	owner: "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b"
+	ranks: {
+		db4611d1-772d-34de-9aee-9e4cf8193996: "member"
+		ecd40dac-b9b9-34e3-a5bc-9827d8785d5b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Los Negros"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752362990113L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nova\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752363113922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"zell\"}]}" }
+	]
+	extra: { }
+}
