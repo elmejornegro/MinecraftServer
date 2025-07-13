@@ -8033,6 +8033,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-07-13 03:33:50 +0000",
       "bread": "2025-07-12 20:43:44 +0000",
       "melon_slice": "2025-07-12 21:10:28 +0000"
     },
@@ -9766,6 +9767,7 @@
       "biomeswevegone:rugged_badlands": "2025-07-13 03:15:46 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-13 02:43:39 +0000",
+      "biomeswevegone:ebony_woods": "2025-07-13 03:34:34 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-13 02:29:21 +0000"
     },
     "done": false
@@ -9836,6 +9838,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
       "has_item": "2025-07-13 03:01:02 +0000"
@@ -9845,6 +9853,12 @@
   "handcrafted:recipes/misc/acacia_table": {
     "criteria": {
       "has_acacia_table": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bisque": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:34:59 +0000"
     },
     "done": true
   },
@@ -9869,6 +9883,12 @@
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-07-13 03:32:20 +0000"
     },
     "done": true
   },
@@ -9971,6 +9991,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-13 03:10:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/crab_cakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:34:59 +0000"
     },
     "done": true
   },
@@ -10082,6 +10108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/maple_stick": {
     "criteria": {
       "has_item": "2025-07-13 02:56:43 +0000"
@@ -10160,6 +10192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-13 02:56:43 +0000"
@@ -10208,6 +10246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
@@ -10217,6 +10261,12 @@
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-13 03:28:57 +0000"
     },
     "done": true
   },
@@ -10352,6 +10402,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
@@ -10403,6 +10459,12 @@
   "mca:recipes/decorations/red_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-07-13 03:33:26 +0000"
     },
     "done": true
   },
@@ -10538,6 +10600,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-13 03:01:30 +0000"
@@ -10553,6 +10621,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-07-13 02:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -10661,6 +10735,12 @@
   "mca:recipes/decorations/white_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-13 03:33:26 +0000"
     },
     "done": true
   },
@@ -10820,6 +10900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-07-13 02:48:00 +0000"
@@ -10917,6 +11003,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_crab": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
@@ -10941,6 +11033,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/crab_barrel": {
+    "criteria": {
+      "has_crab": "2025-07-13 03:34:59 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
@@ -10950,6 +11048,12 @@
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -11004,6 +11108,12 @@
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -11067,6 +11177,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -11121,6 +11237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-13 02:33:08 +0000"
@@ -11154,6 +11276,18 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-07-13 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -11235,6 +11369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -11292,6 +11432,12 @@
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -11409,6 +11555,12 @@
     },
     "done": true
   },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/yellow_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
@@ -11418,6 +11570,18 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-13 02:45:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:25:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },
@@ -11466,6 +11630,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:25:22 +0000"
     },
     "done": true
   },

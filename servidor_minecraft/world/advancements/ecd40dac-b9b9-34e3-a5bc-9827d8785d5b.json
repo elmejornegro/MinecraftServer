@@ -1906,9 +1906,12 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:crag_gardens": "2025-07-13 03:32:40 +0000",
       "biomeswevegone:mojave_desert": "2025-07-12 21:23:58 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 01:52:55 +0000",
-      "biomeswevegone:amaranth_grassland": "2025-07-13 02:54:31 +0000"
+      "biomeswevegone:amaranth_grassland": "2025-07-13 02:54:31 +0000",
+      "biomeswevegone:ebony_woods": "2025-07-13 03:33:50 +0000",
+      "biomeswevegone:rainbow_beach": "2025-07-13 03:30:46 +0000"
     },
     "done": false
   },
@@ -10512,15 +10515,39 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-07-13 03:25:24 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/red_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-07-13 03:19:11 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-07-13 03:33:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:33:51 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/maple_stick": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/feathered_mantle": {
+    "criteria": {
+      "has_feather": "2025-07-13 03:33:59 +0000"
     },
     "done": true
   },
@@ -10533,6 +10560,12 @@
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-13 03:34:05 +0000"
     },
     "done": true
   },
@@ -10590,6 +10623,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-07-13 03:29:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_fence": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
@@ -10605,6 +10644,18 @@
   "blue_skies:recipes/building_blocks/maple_door": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-13 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-13 03:33:51 +0000"
     },
     "done": true
   },
@@ -10632,6 +10683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-13 03:33:51 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocopedia": {
     "criteria": {
       "has_gysahl_green": "2025-07-13 03:19:11 +0000"
@@ -10656,6 +10713,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-13 03:33:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-07-13 03:29:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_fence_gate": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
@@ -10671,6 +10740,24 @@
   "blue_skies:recipes/blue_skies_tools/maple_axe": {
     "criteria": {
       "has_resource": "2025-07-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2025-07-13 03:33:59 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-07-13 03:29:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-13 03:25:24 +0000"
     },
     "done": true
   },

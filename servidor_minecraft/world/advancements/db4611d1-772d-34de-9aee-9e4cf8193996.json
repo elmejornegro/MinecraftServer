@@ -68,8 +68,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-07-13 00:42:40 +0000",
+      "minecraft:sparse_jungle": "2025-07-13 03:31:49 +0000",
       "minecraft:river": "2025-07-13 03:25:11 +0000",
       "minecraft:desert": "2025-07-12 20:16:38 +0000",
+      "minecraft:jungle": "2025-07-13 03:30:43 +0000",
       "minecraft:warm_ocean": "2025-07-13 00:01:56 +0000",
       "minecraft:savanna": "2025-07-13 01:52:53 +0000"
     },
@@ -9285,9 +9287,14 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:atacama_outback": "2025-07-13 03:27:31 +0000",
+      "biomeswevegone:windswept_desert": "2025-07-13 03:26:45 +0000",
+      "biomeswevegone:crag_gardens": "2025-07-13 03:33:18 +0000",
       "biomeswevegone:mojave_desert": "2025-07-12 23:11:50 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-13 03:31:02 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 01:52:58 +0000",
-      "biomeswevegone:amaranth_grassland": "2025-07-13 02:24:26 +0000"
+      "biomeswevegone:amaranth_grassland": "2025-07-13 02:24:26 +0000",
+      "biomeswevegone:tropical_rainforest": "2025-07-13 03:34:50 +0000"
     },
     "done": false
   },
@@ -10473,6 +10480,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-07-13 03:33:05 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-07-13 01:53:27 +0000"
@@ -11277,6 +11290,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-13 03:35:49 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-07-13 01:53:27 +0000"
@@ -11604,6 +11623,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-13 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-13 03:35:49 +0000"
     },
     "done": true
   },

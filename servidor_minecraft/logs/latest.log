@@ -2978,3 +2978,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 03:28:17.926] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/byg/palm_tree
 [13Jul2025 03:28:17.926] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/byg/palm_tree
 [13Jul2025 03:28:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> has made the advancement [We do a little trolling...]
+[13Jul2025 03:29:25.678] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[13Jul2025 03:30:52.434] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=692, y=48, z=5136} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jul2025 03:30:52.434] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=692, y=48, z=5136}
+[13Jul2025 03:31:29.555] [Worker-Main-9/INFO] [STDOUT/]: [com.teamremastered.tlc.structures.LostCastle:distanceFromSpawn:67]: Distance from spawn is: 5689
+[13Jul2025 03:32:20.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> has made the advancement [It's an Emu!!!]
+[13Jul2025 03:32:54.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
+[13Jul2025 03:33:13.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[13Jul2025 03:33:29.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pearl'/45487, l='ServerLevel[world]', x=386.72, y=67.00, z=5689.72] died, message: 'Pearl suffocated in a wall'
+[13Jul2025 03:33:35.692] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nichola'/45699, l='ServerLevel[world]', x=386.72, y=67.00, z=5705.72] died, message: 'Nichola suffocated in a wall'
+[13Jul2025 03:33:43.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alec'/45845, l='ServerLevel[world]', x=381.37, y=69.00, z=5725.72] died, message: 'Alec suffocated in a wall'
+[13Jul2025 03:33:43.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jemma'/45846, l='ServerLevel[world]', x=380.72, y=69.00, z=5727.72] died, message: 'Jemma suffocated in a wall'
+[13Jul2025 03:33:43.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Glyn'/45860, l='ServerLevel[world]', x=393.37, y=70.00, z=5724.72] died, message: 'Glyn suffocated in a wall'
+[13Jul2025 03:33:54.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lyall'/46133, l='ServerLevel[world]', x=398.70, y=69.00, z=5733.70] died, message: 'Lyall suffocated in a wall'
+[13Jul2025 03:34:03.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Laurie'/46202, l='ServerLevel[world]', x=357.71, y=71.00, z=5747.71] died, message: 'Laurie suffocated in a wall'
+[13Jul2025 03:34:03.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stuart'/46212, l='ServerLevel[world]', x=368.70, y=69.00, z=5750.70] died, message: 'Stuart suffocated in a wall'
+[13Jul2025 03:34:03.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lynne'/46213, l='ServerLevel[world]', x=386.72, y=69.00, z=5745.72] died, message: 'Lynne suffocated in a wall'
+[13Jul2025 03:34:18.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kelvin'/46340, l='ServerLevel[world]', x=389.37, y=68.00, z=5767.72] died, message: 'Kelvin suffocated in a wall'
+[13Jul2025 03:34:19.669] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:19.670] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:19.887] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:20.561] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:20.628] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:20.628] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:20.628] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:20.628] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[13Jul2025 03:34:26.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3995ms or 79 ticks behind
+[13Jul2025 03:34:31.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:34:34.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anna'/46691, l='ServerLevel[world]', x=370.28, y=68.00, z=5779.37] died, message: 'Anna suffocated in a wall'
+[13Jul2025 03:34:58.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2911ms or 58 ticks behind
+[13Jul2025 03:35:24.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11010ms or 220 ticks behind
+[13Jul2025 03:35:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> has made the advancement [Ice Bucket Challenge]
+[13Jul2025 03:37:18.926] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.926] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.926] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.927] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.927] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.927] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.927] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.928] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.928] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:37:18.928] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jul2025 03:38:59.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
