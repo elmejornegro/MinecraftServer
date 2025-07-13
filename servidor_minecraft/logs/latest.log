@@ -3020,3 +3020,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 03:37:18.928] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Jul2025 03:37:18.928] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Jul2025 03:38:59.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4322ms or 86 ticks behind
+[13Jul2025 03:39:49.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[13Jul2025 03:39:51.635] [Worker-Main-2/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=372, y=62, z=6612}
+[13Jul2025 03:39:51.635] [Worker-Main-2/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=370, y=64, z=6609}
+[13Jul2025 03:40:19.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> has made the advancement [Minecraft Comes Alive]
+[13Jul2025 03:41:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:41:15.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> has made the advancement [Minecraft Comes Alive]
+[13Jul2025 03:41:55.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[13Jul2025 03:44:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <<[Negro] Nova>> xaero-waypoint:Aldea en La Jungla:A:284:63:2150:2:false:0:Internal-overworld-waypoints
+[13Jul2025 03:44:33.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <<[Negro] zell>> xaero-waypoint:Shared Location:S:0:~:0:2:false:0:Internal-overworld-waypoints
+[13Jul2025 03:45:33.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:45:44.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] zell>: Teleported <[Negro] zell> to <[Negro] Nova>]
+[13Jul2025 03:45:59.354] [Worker-Main-8/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:14.966301f,range:16,source:{source_entity:[I;-1269803199,1406288884,-1368575784,873763783],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jul2025 03:45:59.355] [Worker-Main-8/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:15.677114f,range:16,source:{source_entity:[I;-1862562784,1936213372,-1321171787,470854429],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jul2025 03:45:59.371] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:14.966301f,range:16,source:{source_entity:[I;-1269803199,1406288884,-1368575784,873763783],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jul2025 03:45:59.372] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:15.677114f,range:16,source:{source_entity:[I;-1862562784,1936213372,-1321171787,470854429],type:"minecraft:entity",y_offset:0.36f}}]
+[13Jul2025 03:47:16.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:47:28.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:48:26.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] zell>: Teleported <[Negro] zell> to <[Negro] Nova>]
+[13Jul2025 03:48:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> has completed the challenge [Centennial]
+[13Jul2025 03:49:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> was shot by Pillager
+[13Jul2025 03:49:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]

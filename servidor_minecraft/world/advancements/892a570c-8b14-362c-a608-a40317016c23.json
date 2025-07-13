@@ -9763,8 +9763,10 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:crag_gardens": "2025-07-13 03:39:31 +0000",
       "biomeswevegone:mojave_desert": "2025-07-12 21:31:18 +0000",
       "biomeswevegone:rugged_badlands": "2025-07-13 03:15:46 +0000",
+      "biomeswevegone:temperate_grove": "2025-07-13 03:41:15 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-13 02:43:39 +0000",
       "biomeswevegone:ebony_woods": "2025-07-13 03:34:34 +0000",
@@ -9946,6 +9948,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:57 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_ticket_pass": {
     "criteria": {
       "ticket_material": "2025-07-13 02:36:04 +0000"
@@ -9973,6 +9981,12 @@
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10102,9 +10116,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10234,15 +10260,33 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-13 03:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-07-13 03:41:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10255,6 +10299,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10303,6 +10353,12 @@
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10465,6 +10521,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-07-13 03:33:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10756,6 +10818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
@@ -10771,6 +10839,12 @@
   "betterarcheology:recipes/tools/diamond_brush": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -10849,6 +10923,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-07-13 02:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-13 03:39:03 +0000"
     },
     "done": true
   },
@@ -10973,6 +11053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-13 03:39:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-07-13 03:20:28 +0000"
@@ -11081,6 +11167,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:42:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-07-13 02:20:13 +0000"
@@ -11126,6 +11218,12 @@
   "mca:recipes/decorations/light_blue_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
@@ -11375,6 +11473,12 @@
     },
     "done": true
   },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -11603,9 +11707,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-13 03:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:45:57 +0000"
     },
     "done": true
   },
