@@ -3,6 +3,7 @@
 	type: "party"
 	owner: "ecd40dac-b9b9-34e3-a5bc-9827d8785d5b"
 	ranks: {
+		892a570c-8b14-362c-a608-a40317016c23: "member"
 		db4611d1-772d-34de-9aee-9e4cf8193996: "member"
 		ecd40dac-b9b9-34e3-a5bc-9827d8785d5b: "owner"
 	}
@@ -16,6 +17,7 @@
 	message_history: [
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752362990113L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nova\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1752363113922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"zell\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752372775043L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Josh\"}]}" }
 	]
 	extra: { }
 }

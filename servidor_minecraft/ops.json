@@ -10,17 +10,5 @@
     "name": "Nova",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "db4611d1-772d-34de-9aee-9e4cf8193996",
-    "name": "zell",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "892a570c-8b14-362c-a608-a40317016c23",
-    "name": "Josh",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]

@@ -2,9 +2,7 @@
 	id: "892a570c-8b14-362c-a608-a40317016c23"
 	type: "player"
 	player_name: "Josh"
-	ranks: {
-		892a570c-8b14-362c-a608-a40317016c23: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Josh"
 		"ftbteams:description": ""

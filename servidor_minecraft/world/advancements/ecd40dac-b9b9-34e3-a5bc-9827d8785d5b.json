@@ -10334,9 +10334,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/bluebright_spear": {
+  "betterarcheology:recipes/bomb": {
     "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
+      "has_item": "2025-07-13 01:53:56 +0000"
     },
     "done": true
   },
@@ -10352,12 +10352,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/dusk_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
       "has_item": "2025-07-13 01:54:49 +0000"
@@ -10370,21 +10364,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/comet_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
   "doggytalents:recipes/decorations/lab_coat": {
     "criteria": {
       "has_wool": "2025-07-13 01:54:49 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
     },
     "done": true
   },
@@ -10400,45 +10382,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/maple_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/frostbright_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/lunar_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-07-13 01:54:49 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/bomb": {
-    "criteria": {
-      "has_item": "2025-07-13 01:53:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/moonstone_from_shard": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
     },
     "done": true
   },
@@ -10448,21 +10394,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2025-07-13 01:55:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-13 01:54:49 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_moonstone_shard": {
-    "criteria": {
-      "obtain_moonstone_shard": "2025-07-13 01:55:23 +0000"
     },
     "done": true
   },
@@ -10505,6 +10439,72 @@
   "doggytalents:recipes/building_blocks/dog_bed_def": {
     "criteria": {
       "has_wool": "2025-07-13 01:54:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-07-13 01:55:23 +0000"
     },
     "done": true
   },
