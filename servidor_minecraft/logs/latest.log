@@ -2885,3 +2885,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 02:56:07.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Good Demoman]
 [13Jul2025 02:57:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Baby Skeleton
 [13Jul2025 02:58:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh was slain by Zombie
+[13Jul2025 03:00:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Josh: Teleported Josh to zell]
+[13Jul2025 03:01:13.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Dark Metallurgy]
+[13Jul2025 03:02:08.591] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 03:02:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 03:02:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nova no longer a server operator
+[13Jul2025 03:03:20.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player is not an operator
+[13Jul2025 03:03:24.197] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 03:03:24.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 03:03:42.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Josh: Teleported Josh to zell]
+[13Jul2025 03:05:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh was slain by Scarlet Persecutor
+[13Jul2025 03:05:30.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Josh: Teleported Josh to zell]
+[13Jul2025 03:07:02.270] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 03:07:02.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Ranks reloaded from disk!]
+[13Jul2025 03:07:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <<[Negro] Nova>> a
+[13Jul2025 03:07:18.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <<[Negro] Josh>> tu mami
+[13Jul2025 03:07:33.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> was slain by Scarlet Persecutor
+[13Jul2025 03:07:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> was slain by Scarlet Persecutor
+[13Jul2025 03:07:43.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Nova> was slain by Scarlet Persecutor
+[13Jul2025 03:07:44.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:07:53.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:07:59.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] zell>: Teleported <[Negro] zell> to <[Negro] Nova>]
+[13Jul2025 03:08:12.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Nova> was slain by Zombie
+[13Jul2025 03:08:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> was burnt to a crisp whilst fighting Zombie
+[13Jul2025 03:08:20.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:08:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> was slain by Scarlet Persecutor
+[13Jul2025 03:08:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] zell>: Teleported <[Negro] zell> to <[Negro] Nova>]
+[13Jul2025 03:08:43.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Nova> was slain by Corpse Maggot

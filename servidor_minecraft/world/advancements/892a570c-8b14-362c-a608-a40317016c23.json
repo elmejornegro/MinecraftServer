@@ -9833,9 +9833,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/golden_machete": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -9848,6 +9866,12 @@
   "blue_skies:recipes/combat/bluebright_spear": {
     "criteria": {
       "has_item": "2025-07-13 02:07:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -9905,6 +9929,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
@@ -9923,9 +9953,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-13 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -9947,6 +10001,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/ticket_machine/ticket_station/ticket_pass": {
     "criteria": {
       "ticket_material": "2025-07-13 02:36:04 +0000"
@@ -9959,9 +10019,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -9983,9 +10055,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_vine": {
     "criteria": {
       "has_vine": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10013,15 +10097,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2025-07-13 02:48:49 +0000"
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "lightmanscurrency:recipes/ticket_machine/ticket_station/golden_master_ticket": {
     "criteria": {
       "ticket_material": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
     },
     "done": true
   },
@@ -10097,6 +10211,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-07-13 02:20:13 +0000"
@@ -10115,9 +10235,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-13 02:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10169,9 +10301,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-13 03:01:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10208,6 +10370,12 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10253,6 +10421,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -10283,6 +10457,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/blue_skies/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-13 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-07-13 02:31:07 +0000"
@@ -10307,9 +10499,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/recipe_diamond_brush": {
     "criteria": {
       "has_item": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10343,6 +10553,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10352,6 +10574,18 @@
   "mca:recipes/decorations/pink_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10379,6 +10613,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-07-13 02:20:13 +0000"
@@ -10391,9 +10637,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10427,6 +10685,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sand": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10457,6 +10721,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-07-13 02:48:00 +0000"
@@ -10466,6 +10736,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:56:43 +0000"
     },
     "done": true
   },
@@ -10497,6 +10773,24 @@
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10542,6 +10836,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10551,6 +10851,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-07-13 02:48:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-13 03:01:29 +0000"
     },
     "done": true
   },
@@ -10584,6 +10896,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_blue_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
       "apple": "2025-07-13 02:50:31 +0000"
@@ -10608,6 +10926,24 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_acacia": {
+    "criteria": {
+      "has_item": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10617,6 +10953,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10635,6 +10977,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-13 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
     },
     "done": true
   },
@@ -10665,6 +11013,12 @@
   "doggytalents:recipes/tools/shrinking_mallet": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10704,15 +11058,33 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/cyan_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-13 02:50:31 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },
@@ -10740,9 +11112,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/blue_skies/item_shelf_maple": {
+    "criteria": {
+      "has_item": "2025-07-13 02:56:43 +0000"
     },
     "done": true
   },
@@ -10764,15 +11154,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-07-13 02:56:43 +0000"
     },
     "done": true
   },
@@ -10860,6 +11280,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-13 02:33:08 +0000"
@@ -10875,6 +11301,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_acacia_crib": {
+    "criteria": {
+      "has_acacia_planks": "2025-07-13 03:01:02 +0000"
     },
     "done": true
   },

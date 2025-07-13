@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-07-13 00:41:55 +0000",
+      "minecraft:beach": "2025-07-13 02:57:25 +0000",
       "minecraft:desert": "2025-07-12 20:06:10 +0000",
       "minecraft:warm_ocean": "2025-07-12 21:21:21 +0000",
       "minecraft:savanna": "2025-07-13 01:52:49 +0000"
@@ -10506,6 +10507,12 @@
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-13 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-07-13 02:56:07 +0000"
     },
     "done": true
   },
