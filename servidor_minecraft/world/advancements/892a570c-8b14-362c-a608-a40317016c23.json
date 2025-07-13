@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-07-13 02:29:39 +0000",
+      "minecraft:river": "2025-07-13 03:16:06 +0000",
       "minecraft:desert": "2025-07-12 20:08:43 +0000",
       "minecraft:warm_ocean": "2025-07-12 21:21:17 +0000",
       "minecraft:savanna": "2025-07-13 02:28:54 +0000"
@@ -9762,6 +9763,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:mojave_desert": "2025-07-12 21:31:18 +0000",
+      "biomeswevegone:rugged_badlands": "2025-07-13 03:15:46 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 02:06:03 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-13 02:43:39 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-13 02:29:21 +0000"
@@ -9903,6 +9905,12 @@
   "doggytalents:recipes/tools/radio_collar": {
     "criteria": {
       "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-07-13 03:24:42 +0000"
     },
     "done": true
   },
@@ -10248,6 +10256,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_quicksand": "2025-07-13 03:17:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
@@ -10350,6 +10364,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-13 03:17:24 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_sign": {
     "criteria": {
       "has_item": "2025-07-13 02:56:43 +0000"
@@ -10359,6 +10379,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-13 03:20:34 +0000"
     },
     "done": true
   },
@@ -10437,6 +10463,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-13 03:20:40 +0000"
     },
     "done": true
   },
@@ -10852,6 +10884,12 @@
   "handcrafted:recipes/misc/acacia_chair": {
     "criteria": {
       "has_acacia_chair": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-07-13 03:20:28 +0000"
     },
     "done": true
   },
@@ -11302,6 +11340,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-07-13 03:24:42 +0000"
     },
     "done": true
   },

@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-07-13 00:42:40 +0000",
+      "minecraft:river": "2025-07-13 03:25:11 +0000",
       "minecraft:desert": "2025-07-12 20:16:38 +0000",
       "minecraft:warm_ocean": "2025-07-13 00:01:56 +0000",
       "minecraft:savanna": "2025-07-13 01:52:53 +0000"
@@ -10442,6 +10443,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-13 03:22:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
       "has_item": "2025-07-13 02:29:53 +0000"
@@ -10472,15 +10479,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
       "has_acacia_plank": "2025-07-13 02:29:53 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-13 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10493,6 +10524,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10520,6 +10557,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-07-13 02:29:53 +0000"
@@ -10532,6 +10581,12 @@
     },
     "done": true
   },
+  "moresnifferflowers:recipes/transportation/vivicus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-07-13 02:29:53 +0000"
@@ -10541,6 +10596,18 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10586,6 +10653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-13 03:22:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-13 02:37:21 +0000"
@@ -10595,6 +10668,12 @@
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2025-07-13 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10652,9 +10731,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10694,6 +10785,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/uncooked_rice_bowl": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-07-13 03:21:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
@@ -10712,9 +10815,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/lime_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10748,6 +10863,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-07-13 02:18:08 +0000"
@@ -10760,9 +10881,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-13 03:22:50 +0000"
     },
     "done": true
   },
@@ -10772,9 +10905,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_fence": {
     "criteria": {
       "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/training_treat": {
+    "criteria": {
+      "has_dtn_rice_grains": "2025-07-13 03:21:12 +0000"
     },
     "done": true
   },
@@ -10787,6 +10944,12 @@
   "mca:recipes/decorations/gray_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10832,6 +10995,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-07-13 02:28:55 +0000"
@@ -10862,9 +11031,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10880,9 +11061,21 @@
     },
     "done": true
   },
+  "moresnifferflowers:recipes/transportation/corrupted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10895,6 +11088,12 @@
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2025-07-13 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -10925,6 +11124,18 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-07-13 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-07-13 03:23:08 +0000"
     },
     "done": true
   },
@@ -10964,6 +11175,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-13 01:53:27 +0000"
@@ -10982,9 +11199,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -11015,6 +11262,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -11072,6 +11325,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2025-07-13 03:22:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-07-13 02:29:53 +0000"
@@ -11081,6 +11340,12 @@
   "blue_skies:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_item": "2025-07-13 02:37:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-13 03:22:50 +0000"
     },
     "done": true
   },
@@ -11120,6 +11385,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_drawer": {
     "criteria": {
       "has_acacia_drawer": "2025-07-13 02:29:53 +0000"
@@ -11138,9 +11409,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-13 03:22:50 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-13 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -11192,6 +11481,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-13 02:29:53 +0000"
@@ -11201,6 +11508,12 @@
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
@@ -11234,6 +11547,24 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/acacia_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-13 02:28:55 +0000"
@@ -11258,6 +11589,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-07-13 02:29:53 +0000"
@@ -11276,6 +11613,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
@@ -11285,6 +11628,12 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-13 03:21:25 +0000"
     },
     "done": true
   },
