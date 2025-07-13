@@ -3041,3 +3041,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 03:48:50.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> has completed the challenge [Centennial]
 [13Jul2025 03:49:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> was shot by Pillager
 [13Jul2025 03:49:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:50:29.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Nova> has made the advancement [Mine? Mine? Mine?]
+[13Jul2025 03:50:30.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Nova) moved wrongly! 0.31325025315618404
+[13Jul2025 03:50:53.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> was slain by Drowned
+[13Jul2025 03:51:00.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3293ms or 65 ticks behind
+[13Jul2025 03:51:14.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:53:05.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 03:53:57.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:54:55.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:55:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 03:56:05.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zell) moved wrongly! 0.2881305645115759
+[13Jul2025 03:56:06.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zell) moved wrongly! 0.38209673247681053
+[13Jul2025 03:56:06.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zell) moved wrongly! 0.33853272505855614
+[13Jul2025 03:56:06.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of zell) moved wrongly! 0.4995078816901213
+[13Jul2025 03:56:09.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.29438709113831774
+[13Jul2025 03:56:09.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.29438709113831774
+[13Jul2025 03:56:09.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.29438709113831774
+[13Jul2025 03:56:21.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[13Jul2025 03:56:29.790] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=101, y=58, z=-128}
+[13Jul2025 03:56:34.828] [Worker-Main-8/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=91, y=58, z=-134}
+[13Jul2025 03:56:38.936] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=108, y=60, z=-151}
+[13Jul2025 03:56:38.973] [Worker-Main-2/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=126, y=64, z=-148}
+[13Jul2025 03:56:39.074] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=142, y=66, z=-159}
+[13Jul2025 03:56:39.074] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=131, y=64, z=-154}
+[13Jul2025 03:56:39.130] [Worker-Main-8/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=144, y=64, z=-159}
+[13Jul2025 03:56:42.207] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=102, y=58, z=-162}
+[13Jul2025 03:56:42.385] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=133, y=61, z=-174}
+[13Jul2025 03:56:42.466] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=148, y=65, z=-164}
+[13Jul2025 03:56:42.466] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=155, y=65, z=-174}
+[13Jul2025 03:56:44.652] [Worker-Main-8/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=127, y=62, z=-177}
+[13Jul2025 03:56:44.653] [Worker-Main-8/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=123, y=60, z=-177}
+[13Jul2025 03:56:44.913] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=143, y=62, z=-189}
+[13Jul2025 03:56:44.932] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=146, y=64, z=-180}
+[13Jul2025 03:56:44.932] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=145, y=62, z=-180}
+[13Jul2025 03:56:47.514] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=134, y=59, z=-200}
+[13Jul2025 03:56:47.532] [Worker-Main-8/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=147, y=61, z=-205}
+[13Jul2025 03:56:52.782] [Worker-Main-80/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=147, y=62, z=-210}
+[13Jul2025 03:56:57.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.3457822144257605
+[13Jul2025 03:57:05.620] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-7, y=60, z=-235}
+[13Jul2025 03:57:05.620] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-9, y=59, z=-228}
+[13Jul2025 03:57:05.620] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-9, y=62, z=-238}
+[13Jul2025 03:57:05.620] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-4, y=59, z=-228}
+[13Jul2025 03:57:05.620] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-11, y=60, z=-233}
+[13Jul2025 03:57:05.782] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=14, y=62, z=-240}
+[13Jul2025 03:57:05.782] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=3, y=63, z=-237}
+[13Jul2025 03:57:05.782] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=2, y=58, z=-234}
+[13Jul2025 03:57:05.782] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=8, y=60, z=-238}
+[13Jul2025 03:57:05.782] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=14, y=60, z=-235}
+[13Jul2025 03:57:05.834] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=33, y=58, z=-235}
+[13Jul2025 03:57:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.36826296431022243
+[13Jul2025 03:57:08.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.5748915993785388
+[13Jul2025 03:57:09.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Josh) moved wrongly! 0.29324794729789616
+[13Jul2025 03:58:08.321] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=1, y=63, z=-241}
+[13Jul2025 03:58:08.322] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=1, y=63, z=-249}
+[13Jul2025 03:58:08.322] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=5, y=60, z=-255}
+[13Jul2025 03:58:08.344] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-13, y=59, z=-241}
+[13Jul2025 03:58:08.344] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1, y=59, z=-244}
+[13Jul2025 03:58:08.474] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=31, y=59, z=-254}
+[13Jul2025 03:58:08.474] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=28, y=59, z=-245}
+[13Jul2025 03:58:08.474] [Worker-Main-1/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=26, y=59, z=-242}
+[13Jul2025 03:58:08.528] [Worker-Main-6/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=32, y=60, z=-251}
+[13Jul2025 03:58:15.039] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=9, y=60, z=-261}
+[13Jul2025 03:58:15.039] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=9, y=58, z=-259}
+[13Jul2025 03:58:15.184] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=24, y=60, z=-263}
+[13Jul2025 03:58:15.184] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=24, y=58, z=-265}
+[13Jul2025 03:58:15.242] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=36, y=58, z=-272}
+[13Jul2025 03:58:15.243] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=43, y=58, z=-259}
+[13Jul2025 03:58:15.243] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=44, y=59, z=-258}
+[13Jul2025 03:58:15.272] [Worker-Main-10/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=48, y=58, z=-261}
+[13Jul2025 03:58:21.432] [Worker-Main-80/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=55, y=58, z=-280}
+[13Jul2025 03:58:21.432] [Worker-Main-80/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=55, y=59, z=-277}
+[13Jul2025 03:58:21.480] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=73, y=58, z=-274}
+[13Jul2025 03:59:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]

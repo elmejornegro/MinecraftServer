@@ -69,11 +69,15 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-13 03:42:43 +0000",
       "minecraft:badlands": "2025-07-13 00:42:40 +0000",
+      "minecraft:beach": "2025-07-13 03:51:03 +0000",
+      "minecraft:dark_forest": "2025-07-13 03:54:12 +0000",
       "minecraft:sparse_jungle": "2025-07-13 03:31:49 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-13 03:47:27 +0000",
       "minecraft:river": "2025-07-13 03:25:11 +0000",
       "minecraft:swamp": "2025-07-13 03:40:18 +0000",
       "minecraft:desert": "2025-07-12 20:16:38 +0000",
       "minecraft:jungle": "2025-07-13 03:30:43 +0000",
+      "minecraft:ocean": "2025-07-13 03:50:52 +0000",
       "minecraft:warm_ocean": "2025-07-13 00:01:56 +0000",
       "minecraft:savanna": "2025-07-13 01:52:53 +0000"
     },
@@ -9295,8 +9299,11 @@
       "biomeswevegone:mojave_desert": "2025-07-12 23:11:50 +0000",
       "biomeswevegone:enchanted_tangle": "2025-07-13 03:31:02 +0000",
       "biomeswevegone:temperate_grove": "2025-07-13 03:37:15 +0000",
+      "biomeswevegone:lush_stacks": "2025-07-13 03:46:21 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 01:52:58 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-13 02:24:26 +0000",
+      "biomeswevegone:weeping_witch_forest": "2025-07-13 03:51:18 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-13 03:55:28 +0000",
       "biomeswevegone:tropical_rainforest": "2025-07-13 03:34:50 +0000"
     },
     "done": false
@@ -10513,6 +10520,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dry_bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-13 03:38:00 +0000"
@@ -10540,6 +10553,12 @@
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dry_bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -10633,6 +10652,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-13 03:21:25 +0000"
@@ -10654,6 +10679,12 @@
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-07-13 03:49:41 +0000"
     },
     "done": true
   },
@@ -10723,6 +10754,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bamboo_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-13 02:56:19 +0000"
@@ -10744,6 +10787,12 @@
   "betterarcheology:recipes/combat/bomb": {
     "criteria": {
       "has_gunpowder": "2025-07-13 02:56:19 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/snorkel": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -10843,6 +10892,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-13 03:47:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
@@ -10852,6 +10907,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -11029,9 +11090,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-13 03:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-13 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -11080,6 +11159,12 @@
   "sophisticatedstorage:recipes/misc/storage_stack_upgrade_tier_1_plus_from_backpack_stack_upgrade_starter_tier": {
     "criteria": {
       "has_backpack_stack_upgrade": "2025-07-13 02:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-13 03:47:00 +0000"
     },
     "done": true
   },
@@ -11305,6 +11390,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-13 03:47:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_stack_upgrade_starter_tier": "2025-07-13 02:21:28 +0000"
@@ -11338,6 +11429,12 @@
   "mca:recipes/decorations/light_blue_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bamboo_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -11386,6 +11483,18 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_log": "2025-07-13 03:46:58 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 03:46:58 +0000"
     },
     "done": true
   },
@@ -11455,6 +11564,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-13 03:47:00 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/cyan_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
@@ -11494,6 +11609,12 @@
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-07-13 01:53:27 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:46:20 +0000"
     },
     "done": true
   },
@@ -11647,6 +11768,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-13 03:47:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
@@ -11701,6 +11828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
@@ -11710,6 +11843,12 @@
   "mca:recipes/decorations/purple_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-07-13 03:49:41 +0000"
     },
     "done": true
   },
