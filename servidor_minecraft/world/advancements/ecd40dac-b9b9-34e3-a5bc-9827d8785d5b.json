@@ -74,6 +74,7 @@
       "minecraft:lukewarm_ocean": "2025-07-13 03:47:10 +0000",
       "minecraft:river": "2025-07-13 03:19:04 +0000",
       "minecraft:desert": "2025-07-12 20:06:10 +0000",
+      "minecraft:jungle": "2025-07-13 03:56:22 +0000",
       "minecraft:ocean": "2025-07-13 03:51:33 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-13 03:55:50 +0000",
       "minecraft:warm_ocean": "2025-07-12 21:21:21 +0000",
@@ -1913,6 +1914,7 @@
     "criteria": {
       "biomeswevegone:crag_gardens": "2025-07-13 03:32:40 +0000",
       "biomeswevegone:mojave_desert": "2025-07-12 21:23:58 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-07-13 03:56:26 +0000",
       "biomeswevegone:lush_stacks": "2025-07-13 03:45:59 +0000",
       "biomeswevegone:ironwood_gour": "2025-07-13 01:52:55 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-13 02:54:31 +0000",
@@ -10522,6 +10524,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/blue_enchanted_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/blue_enchanted_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-07-13 03:46:20 +0000"
@@ -10543,6 +10557,12 @@
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-07-13 04:01:16 +0000"
     },
     "done": true
   },
@@ -10579,6 +10599,12 @@
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-07-13 03:46:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/blue_enchanted_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },
@@ -10648,6 +10674,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/blue_enchanted_crafting_table": {
+    "criteria": {
+      "has_blue_enchanted_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
@@ -10669,6 +10701,12 @@
   "blue_skies:recipes/building_blocks/maple_sign": {
     "criteria": {
       "has_item": "2025-07-13 03:25:16 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomeswevegone/item_shelf_blue_enchanted": {
+    "criteria": {
+      "has_item": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },
@@ -10726,6 +10764,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/blue_enchanted_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/maple_sword": {
     "criteria": {
       "has_resource": "2025-07-13 03:25:16 +0000"
@@ -10747,6 +10791,12 @@
   "biomeswevegone:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-13 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/blue_enchanted_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },
@@ -10786,6 +10836,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/blue_enchanted_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-13 03:47:43 +0000"
@@ -10807,6 +10863,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-13 03:33:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_enchanted_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },
@@ -10840,6 +10902,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/blue_enchanted_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/food/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2025-07-13 03:19:11 +0000"
@@ -10849,6 +10917,12 @@
   "biomeswevegone:recipes/decorations/mahogany_sign": {
     "criteria": {
       "has_planks": "2025-07-13 03:47:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/blue_enchanted_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },
@@ -10918,6 +10992,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_blue_enchanted": {
+    "criteria": {
+      "has_item": "2025-07-13 03:58:00 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-07-13 03:29:49 +0000"
@@ -10927,6 +11007,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-07-13 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_enchanted_bookshelf": {
+    "criteria": {
+      "has_blue_enchanted_planks": "2025-07-13 03:58:00 +0000"
     },
     "done": true
   },

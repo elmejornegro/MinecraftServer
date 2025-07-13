@@ -10080,6 +10080,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/green_enchanted_sign": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/sandy_dirt": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10314,6 +10320,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_slab": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10422,6 +10434,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-07-13 04:00:43 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-07-13 02:56:43 +0000"
@@ -10506,6 +10524,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/blue_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
@@ -10551,6 +10575,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/green_enchanted_door": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -10635,6 +10665,12 @@
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-07-13 03:50:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/green_enchanted_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -10848,9 +10884,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_planks": {
+    "criteria": {
+      "has_log": "2025-07-13 03:58:22 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_bookshelf": {
+    "criteria": {
+      "has_green_enchanted_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -10875,6 +10923,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-13 02:11:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/green_enchanted_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -10998,6 +11052,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_wood": {
+    "criteria": {
+      "has_log": "2025-07-13 03:58:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/white_sand": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -11116,6 +11176,12 @@
   "crabbersdelight:recipes/food/cooked_tropical_fish": {
     "criteria": {
       "cooked_tropical_fish": "2025-07-13 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/green_enchanted_button": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -11377,6 +11443,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/green_enchanted_crafting_table": {
+    "criteria": {
+      "has_green_enchanted_planks": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-07-13 03:01:02 +0000"
@@ -11386,6 +11458,12 @@
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-07-13 02:23:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomeswevegone/sign_post_green_enchanted": {
+    "criteria": {
+      "has_item": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },
@@ -11557,6 +11635,12 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/biomeswevegone/item_shelf_green_enchanted": {
+    "criteria": {
+      "has_item": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-13 02:20:13 +0000"
@@ -11677,6 +11761,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/green_enchanted_fence": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
@@ -11740,6 +11830,12 @@
   "botania:recipes/tools/vine_ball": {
     "criteria": {
       "has_item": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/green_enchanted_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-13 03:59:24 +0000"
     },
     "done": true
   },

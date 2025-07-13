@@ -10048,6 +10048,7 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
+      "apple": "2025-07-13 04:02:58 +0000",
       "golden_apple": "2025-07-13 00:13:53 +0000"
     },
     "done": false
@@ -10604,6 +10605,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-13 04:02:58 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/transportation/grongle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-13 03:21:25 +0000"
@@ -10739,6 +10746,12 @@
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-13 03:21:25 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-13 04:02:43 +0000"
     },
     "done": true
   },
@@ -11414,6 +11427,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-07-13 04:02:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
@@ -11537,6 +11556,12 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-13 02:17:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-13 04:02:43 +0000"
     },
     "done": true
   },

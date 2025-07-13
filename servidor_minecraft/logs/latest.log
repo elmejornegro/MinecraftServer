@@ -3113,3 +3113,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 03:58:21.432] [Worker-Main-80/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=55, y=59, z=-277}
 [13Jul2025 03:58:21.480] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=73, y=58, z=-274}
 [13Jul2025 03:59:15.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 04:00:20.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] zell>: Teleported <[Negro] zell> to <[Negro] Nova>]
+[13Jul2025 04:00:43.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> has made the advancement [Suit Up]
+[13Jul2025 04:01:23.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirian'/66992, l='ServerLevel[world]', x=50.54, y=74.00, z=51.46] died, message: 'Mirian hit the ground too hard'
+[13Jul2025 04:03:11.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sophio'/66969, l='ServerLevel[world]', x=51.53, y=63.00, z=48.50] died, message: 'Sophio hit the ground too hard'
+[13Jul2025 04:04:52.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] zell> fell from a high place
+[13Jul2025 04:04:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] zell>]
+[13Jul2025 04:04:53.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> fell from a high place
+[13Jul2025 04:05:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [<[Negro] Josh>: Teleported <[Negro] Josh> to <[Negro] Nova>]
+[13Jul2025 04:05:05.271] [Server thread/INFO] [net.poe.entitylootdrops.EntityLootDrops/]: Server stopping - saving loot config state...
+[13Jul2025 04:05:05.284] [Server thread/INFO] [net.poe.entitylootdrops.LootConfig/]: Saved active events state
+[13Jul2025 04:05:05.289] [Server thread/INFO] [net.poe.entitylootdrops.BlockConfig/]: Saved block events state
+[13Jul2025 04:05:05.361] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[13Jul2025 04:05:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2025 04:05:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jul2025 04:05:05.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nova lost connection: Server closed
+[13Jul2025 04:05:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Nova> left the game
+[13Jul2025 04:05:05.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Josh lost connection: Server closed
+[13Jul2025 04:05:05.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <[Negro] Josh> left the game
+[13Jul2025 04:05:05.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jul2025 04:05:08.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jul2025 04:05:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_harvest:harvest
+[13Jul2025 04:05:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[13Jul2025 04:05:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[13Jul2025 04:05:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[13Jul2025 04:05:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ancient_obelisks:obelisk
+[13Jul2025 04:05:09.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dungeon_realm:dungeon
+[13Jul2025 04:05:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[13Jul2025 04:05:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[13Jul2025 04:05:09.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jul2025 04:05:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jul2025 04:05:09.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[13Jul2025 04:05:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jul2025 04:05:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (harvest): All chunks are saved
+[13Jul2025 04:05:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (obelisk): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Jul2025 04:05:09.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jul2025 04:05:09.785] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Jul2025 04:05:09.786] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Jul2025 04:05:09.789] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Jul2025 04:05:09.800] [Server thread/INFO] [quickstack/]: [quickstack]: Configuration changed.
