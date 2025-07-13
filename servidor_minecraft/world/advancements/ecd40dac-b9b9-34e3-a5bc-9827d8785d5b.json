@@ -1904,7 +1904,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:mojave_desert": "2025-07-12 21:23:58 +0000",
-      "biomeswevegone:ironwood_gour": "2025-07-13 01:52:55 +0000"
+      "biomeswevegone:ironwood_gour": "2025-07-13 01:52:55 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-13 02:54:31 +0000"
     },
     "done": false
   },

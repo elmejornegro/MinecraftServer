@@ -2859,3 +2859,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13Jul2025 02:47:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Player Nova added to rank 'Admin'!
 [13Jul2025 02:47:47.858] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
 [13Jul2025 02:47:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:48:49.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Diamonds!]
+[13Jul2025 02:49:11.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh has made the advancement [Ice Bucket Challenge]
+[13Jul2025 02:49:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Server] hola
+[13Jul2025 02:49:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nova a server operator
+[13Jul2025 02:50:00.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Rank ID: limitado, Rank Name: Limitado, Power: 1]
+[13Jul2025 02:50:30.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[13Jul2025 02:51:40.446] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:51:40.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Ranks reloaded from disk!]
+[13Jul2025 02:51:45.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh was slain by Zombie
+[13Jul2025 02:51:59.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zell was slain by Decrepit Skeleton
+[13Jul2025 02:52:04.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Josh: Teleported Josh to Nova]
+[13Jul2025 02:52:09.192] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:52:09.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:52:18.840] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:52:18.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:52:24.607] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:52:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Ranks reloaded from disk!]
+[13Jul2025 02:53:14.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nova no longer a server operator
+[13Jul2025 02:53:48.193] [Server thread/INFO] [FTB Ranks/]: Loaded 2 ranks
+[13Jul2025 02:53:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ranks reloaded from disk!
+[13Jul2025 02:54:30.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Nova a server operator
+[13Jul2025 02:54:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Zombie Bruiser
+[13Jul2025 02:56:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nova: Teleported Nova to zell]
+[13Jul2025 02:56:07.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova has made the advancement [Good Demoman]
+[13Jul2025 02:57:59.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nova was slain by Baby Skeleton
+[13Jul2025 02:58:26.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Josh was slain by Zombie
