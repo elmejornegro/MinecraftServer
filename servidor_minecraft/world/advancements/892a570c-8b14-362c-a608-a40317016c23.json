@@ -2534,6 +2534,7 @@
       "minecraft:skeleton": "2025-07-12 20:36:07 +0000",
       "minecraft:spider": "2025-07-12 21:34:46 +0000",
       "minecraft:creeper": "2025-07-12 20:49:37 +0000",
+      "minecraft:husk": "2025-07-13 03:08:11 +0000",
       "minecraft:zombie": "2025-07-12 21:34:13 +0000"
     },
     "done": false
@@ -9893,6 +9894,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-13 03:10:29 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
@@ -9944,6 +9957,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-13 03:10:29 +0000"
     },
     "done": true
   },
@@ -10187,6 +10206,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-07-13 02:36:04 +0000"
@@ -10409,6 +10434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
@@ -10445,6 +10476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-13 03:10:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2025-07-13 02:20:13 +0000"
@@ -10472,6 +10509,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-13 03:01:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -10526,6 +10569,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -10610,6 +10659,12 @@
   "betterarcheology:recipes/tools/diamond_brush": {
     "criteria": {
       "has_diamond": "2025-07-13 02:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -10703,6 +10758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-13 02:30:05 +0000"
@@ -10742,6 +10803,12 @@
   "blue_skies:recipes/blue_skies_tools/maple_hoe": {
     "criteria": {
       "has_resource": "2025-07-13 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -10824,6 +10891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-07-13 02:31:07 +0000"
@@ -10869,6 +10942,12 @@
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-07-13 02:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -10929,6 +11008,12 @@
   "suppsquared:recipes/decorations/item_shelf_acacia": {
     "criteria": {
       "has_item": "2025-07-13 03:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -11055,6 +11140,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-13 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-13 03:11:26 +0000"
     },
     "done": true
   },
@@ -11211,6 +11302,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-07-13 02:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-13 03:10:29 +0000"
     },
     "done": true
   },
