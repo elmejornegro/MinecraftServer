@@ -2,17 +2,22 @@
 	admin: {
 		name: "Admin"
 		power: 1000
-		condition: "always_active"
-		ftbranks.name_format: "<&l&5[Negro]&r {name}>"
+		condition: "op"
+		ftbranks.name_format: "&l&d[Negro]&r &b{name}&r &6&k*&r"
 		command: true
 	}
 	limitado: {
 		name: "Limitado"
 		power: 1
-		condition: "always_active"
-		ftbranks.name_format: "<&l&1[Negro]&r {name}>"
+		condition: {
+			type: "not"
+			condition: {
+				type: "op"
+			}
+		}
+		ftbranks.name_format: "&l&d[Negro]&r &b{name}"
 		command: false
-		command.gamemode: true
+		command.gamemode: false
 		command.teleport: true
-	}
+	} 
 }

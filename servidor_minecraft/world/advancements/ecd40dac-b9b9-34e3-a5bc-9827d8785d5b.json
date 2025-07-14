@@ -1536,6 +1536,7 @@
       "minecraft:husk": "2025-07-12 21:21:11 +0000",
       "minecraft:cave_spider": "2025-07-13 00:07:52 +0000",
       "minecraft:stray": "2025-07-13 00:34:36 +0000",
+      "minecraft:enderman": "2025-07-13 23:08:39 +0000",
       "minecraft:zombie": "2025-07-12 20:33:03 +0000",
       "minecraft:drowned": "2025-07-13 04:15:11 +0000",
       "minecraft:zombie_villager": "2025-07-13 00:56:26 +0000"
@@ -13298,6 +13299,36 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-07-13 09:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-07-13 23:03:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-13 23:06:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-07-13 23:08:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-13 23:10:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-13 23:29:41 +0000"
     },
     "done": true
   },
